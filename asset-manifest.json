@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/marla729/marla729.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/marla729/marla729.github.io/static/js/main.eb8bc516.chunk.js",
-    "main.js.map": "/marla729/marla729.github.io/static/js/main.eb8bc516.chunk.js.map",
-    "runtime-main.js": "/marla729/marla729.github.io/static/js/runtime-main.28fc02b2.js",
-    "runtime-main.js.map": "/marla729/marla729.github.io/static/js/runtime-main.28fc02b2.js.map",
-    "static/js/2.0f124f0c.chunk.js": "/marla729/marla729.github.io/static/js/2.0f124f0c.chunk.js",
-    "static/js/2.0f124f0c.chunk.js.map": "/marla729/marla729.github.io/static/js/2.0f124f0c.chunk.js.map",
-    "index.html": "/marla729/marla729.github.io/index.html",
-    "precache-manifest.2b0e018f57dc657dcd11b40466efa5e9.js": "/marla729/marla729.github.io/precache-manifest.2b0e018f57dc657dcd11b40466efa5e9.js",
-    "service-worker.js": "/marla729/marla729.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/marla729/marla729.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0f124f0c.chunk.js.LICENSE.txt": "/marla729/marla729.github.io/static/js/2.0f124f0c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/marla729/marla729.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/maral729/marla729.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/maral729/marla729.github.io/static/js/main.1f9f3a9a.chunk.js",
+    "main.js.map": "/maral729/marla729.github.io/static/js/main.1f9f3a9a.chunk.js.map",
+    "runtime-main.js": "/maral729/marla729.github.io/static/js/runtime-main.90c2a8b5.js",
+    "runtime-main.js.map": "/maral729/marla729.github.io/static/js/runtime-main.90c2a8b5.js.map",
+    "static/js/2.0f124f0c.chunk.js": "/maral729/marla729.github.io/static/js/2.0f124f0c.chunk.js",
+    "static/js/2.0f124f0c.chunk.js.map": "/maral729/marla729.github.io/static/js/2.0f124f0c.chunk.js.map",
+    "index.html": "/maral729/marla729.github.io/index.html",
+    "precache-manifest.68aa4fc8458558a66aaf4789eba04795.js": "/maral729/marla729.github.io/precache-manifest.68aa4fc8458558a66aaf4789eba04795.js",
+    "service-worker.js": "/maral729/marla729.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/maral729/marla729.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0f124f0c.chunk.js.LICENSE.txt": "/maral729/marla729.github.io/static/js/2.0f124f0c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/maral729/marla729.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.28fc02b2.js",
+    "static/js/runtime-main.90c2a8b5.js",
     "static/js/2.0f124f0c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.eb8bc516.chunk.js"
+    "static/js/main.1f9f3a9a.chunk.js"
   ]
 }
