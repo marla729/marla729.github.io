@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/maral729/marla729.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/maral729/marla729.github.io/static/js/main.1f9f3a9a.chunk.js",
-    "main.js.map": "/maral729/marla729.github.io/static/js/main.1f9f3a9a.chunk.js.map",
-    "runtime-main.js": "/maral729/marla729.github.io/static/js/runtime-main.90c2a8b5.js",
-    "runtime-main.js.map": "/maral729/marla729.github.io/static/js/runtime-main.90c2a8b5.js.map",
-    "static/js/2.0f124f0c.chunk.js": "/maral729/marla729.github.io/static/js/2.0f124f0c.chunk.js",
-    "static/js/2.0f124f0c.chunk.js.map": "/maral729/marla729.github.io/static/js/2.0f124f0c.chunk.js.map",
-    "index.html": "/maral729/marla729.github.io/index.html",
-    "precache-manifest.68aa4fc8458558a66aaf4789eba04795.js": "/maral729/marla729.github.io/precache-manifest.68aa4fc8458558a66aaf4789eba04795.js",
-    "service-worker.js": "/maral729/marla729.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/maral729/marla729.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0f124f0c.chunk.js.LICENSE.txt": "/maral729/marla729.github.io/static/js/2.0f124f0c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/maral729/marla729.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/workout/static/css/main.5f361e03.chunk.css",
+    "main.js": "/workout/static/js/main.09781c8f.chunk.js",
+    "main.js.map": "/workout/static/js/main.09781c8f.chunk.js.map",
+    "runtime-main.js": "/workout/static/js/runtime-main.0bc67c52.js",
+    "runtime-main.js.map": "/workout/static/js/runtime-main.0bc67c52.js.map",
+    "static/js/2.0f124f0c.chunk.js": "/workout/static/js/2.0f124f0c.chunk.js",
+    "static/js/2.0f124f0c.chunk.js.map": "/workout/static/js/2.0f124f0c.chunk.js.map",
+    "index.html": "/workout/index.html",
+    "precache-manifest.fccbf2a8260b239e9387f23a6420acf0.js": "/workout/precache-manifest.fccbf2a8260b239e9387f23a6420acf0.js",
+    "service-worker.js": "/workout/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/workout/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0f124f0c.chunk.js.LICENSE.txt": "/workout/static/js/2.0f124f0c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/workout/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90c2a8b5.js",
+    "static/js/runtime-main.0bc67c52.js",
     "static/js/2.0f124f0c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1f9f3a9a.chunk.js"
+    "static/js/main.09781c8f.chunk.js"
   ]
 }
