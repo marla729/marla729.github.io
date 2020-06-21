@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marla729/marla729.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/marla729/marla729.github.io/static/js/main.83d7a682.chunk.js",
+    "main.js.map": "/marla729/marla729.github.io/static/js/main.83d7a682.chunk.js.map",
+    "runtime-main.js": "/marla729/marla729.github.io/static/js/runtime-main.2349f043.js",
+    "runtime-main.js.map": "/marla729/marla729.github.io/static/js/runtime-main.2349f043.js.map",
+    "static/js/2.2d797b7a.chunk.js": "/marla729/marla729.github.io/static/js/2.2d797b7a.chunk.js",
+    "static/js/2.2d797b7a.chunk.js.map": "/marla729/marla729.github.io/static/js/2.2d797b7a.chunk.js.map",
+    "index.html": "/marla729/marla729.github.io/index.html",
+    "precache-manifest.c11bf9c00f8677a6bc6ed9d7103e119d.js": "/marla729/marla729.github.io/precache-manifest.c11bf9c00f8677a6bc6ed9d7103e119d.js",
+    "service-worker.js": "/marla729/marla729.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/marla729/marla729.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2d797b7a.chunk.js.LICENSE.txt": "/marla729/marla729.github.io/static/js/2.2d797b7a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/marla729/marla729.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2349f043.js",
+    "static/js/2.2d797b7a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.83d7a682.chunk.js"
+  ]
+}
