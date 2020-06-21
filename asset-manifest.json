@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/marla729/workout/static/css/main.5f361e03.chunk.css",
-    "main.js": "/marla729/workout/static/js/main.e5bdae34.chunk.js",
-    "main.js.map": "/marla729/workout/static/js/main.e5bdae34.chunk.js.map",
-    "runtime-main.js": "/marla729/workout/static/js/runtime-main.3430fbb5.js",
-    "runtime-main.js.map": "/marla729/workout/static/js/runtime-main.3430fbb5.js.map",
-    "static/js/2.0f124f0c.chunk.js": "/marla729/workout/static/js/2.0f124f0c.chunk.js",
-    "static/js/2.0f124f0c.chunk.js.map": "/marla729/workout/static/js/2.0f124f0c.chunk.js.map",
-    "index.html": "/marla729/workout/index.html",
-    "precache-manifest.c649a66bb73856ac37ae9a905ca2a400.js": "/marla729/workout/precache-manifest.c649a66bb73856ac37ae9a905ca2a400.js",
-    "service-worker.js": "/marla729/workout/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/marla729/workout/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0f124f0c.chunk.js.LICENSE.txt": "/marla729/workout/static/js/2.0f124f0c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/marla729/workout/static/media/logo.5d5d9eef.svg"
+    "main.css": "/marla729/marla729.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/marla729/marla729.github.io/static/js/main.eb8bc516.chunk.js",
+    "main.js.map": "/marla729/marla729.github.io/static/js/main.eb8bc516.chunk.js.map",
+    "runtime-main.js": "/marla729/marla729.github.io/static/js/runtime-main.28fc02b2.js",
+    "runtime-main.js.map": "/marla729/marla729.github.io/static/js/runtime-main.28fc02b2.js.map",
+    "static/js/2.0f124f0c.chunk.js": "/marla729/marla729.github.io/static/js/2.0f124f0c.chunk.js",
+    "static/js/2.0f124f0c.chunk.js.map": "/marla729/marla729.github.io/static/js/2.0f124f0c.chunk.js.map",
+    "index.html": "/marla729/marla729.github.io/index.html",
+    "precache-manifest.2b0e018f57dc657dcd11b40466efa5e9.js": "/marla729/marla729.github.io/precache-manifest.2b0e018f57dc657dcd11b40466efa5e9.js",
+    "service-worker.js": "/marla729/marla729.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/marla729/marla729.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0f124f0c.chunk.js.LICENSE.txt": "/marla729/marla729.github.io/static/js/2.0f124f0c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/marla729/marla729.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3430fbb5.js",
+    "static/js/runtime-main.28fc02b2.js",
     "static/js/2.0f124f0c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e5bdae34.chunk.js"
+    "static/js/main.eb8bc516.chunk.js"
   ]
 }
